@@ -4,4 +4,6 @@
 .nav_elements {
   display: flex;
   justify-content: center;
+  background-color: #1b1a1a;
+  color: aliceblue;
 }
