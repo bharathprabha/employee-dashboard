@@ -4,12 +4,8 @@ import "./NavBar.css";
 export default function NavBar() {
   return (
     <div>
-      <nav className="nav_bar navbar-light bg-light">
+      <nav className="nav_bar nav_elements navbar-danger bg-info">
         <span className="navbar-brand mb-0 h2">Employee Admin Dashboard</span>
-
-        <a href="#" className="navbar-brand mb-0">
-          Add Employee
-        </a>
       </nav>
     </div>
   );
